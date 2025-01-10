@@ -1,0 +1,9 @@
+Model Evaluation Metrics:
+Mean Absolute Error (MAE): 6.87
+Mean Squared Error (MSE): 215.21
+R² Score: 0.74
+
+
+#Note:
+The Training dataset is: training_dataset.xlsx
+The Output dataset from the Predictive model is: result_dataset.csv
